@@ -1,6 +1,6 @@
 package filter;
 
-public class Divider extends NumberFilter {
+class Divider extends NumberFilter {
 
 	public Divider(double term) {
 		super(term);
